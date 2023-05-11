@@ -1,2 +1,3 @@
 # eclipsefdn-template
-Template repo for .eclipsefdn-private
+
+Repository to host configurations related to the Eclipse Foundation.
